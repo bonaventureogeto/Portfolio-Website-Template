@@ -1,6 +1,7 @@
 # Portfolio Website Template
 
 This is a customizable portfolio website template built with React and Tailwind CSS. The template includes sections for work experience, projects, an about page, and a contact form integrated with Firebase and EmailJS for sending email notifications. This project is ideal for developers looking to create a personal portfolio for university applications, job applications, or showcasing their work.
+![Landing Page](image.png)
 
 ## Features
 
